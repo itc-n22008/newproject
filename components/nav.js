@@ -16,7 +16,7 @@ export default function Nav() {
                       </li>
 		      <li>  
 			<Link legacyBehavior href="/page3">
-                         リンク３ （css未完全）
+                         リンク３
                        </Link>
                       </li>
 		       <li>

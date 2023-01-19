@@ -1,5 +1,5 @@
 .body { 
-  background-color: #008000;
+  background-color: #033;
  }
 
 .box {
@@ -36,7 +36,7 @@
   left: 0;
   position: absolute;
   z-index: -1;
-  background-color: #008000;
+  background-color: #033;
 }
 
 .box:before {
@@ -47,5 +47,5 @@
 .box:after {
   border-right: 340px solid #FFF;
   bottom: -50px;
-  background-color: #008000;
+  background-color: #033;
 }
